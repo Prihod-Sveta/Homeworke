@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\bin\Debug\net6.0\number 2.exe
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\bin\Debug\net6.0\number 2.deps.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\bin\Debug\net6.0\number 2.runtimeconfig.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\bin\Debug\net6.0\number 2.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\bin\Debug\net6.0\number 2.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.AssemblyInfo.cs
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\refint\number 2.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\number 2.genruntimeconfig.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\number 2\obj\Debug\net6.0\ref\number 2.dll
