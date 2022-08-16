@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\bin\Debug\net6.0\number 11.exe
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\bin\Debug\net6.0\number 11.deps.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\bin\Debug\net6.0\number 11.runtimeconfig.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\bin\Debug\net6.0\number 11.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\bin\Debug\net6.0\number 11.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.AssemblyInfo.cs
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\refint\number 11.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\number 11.genruntimeconfig.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 2\number 11\obj\Debug\net6.0\ref\number 11.dll
