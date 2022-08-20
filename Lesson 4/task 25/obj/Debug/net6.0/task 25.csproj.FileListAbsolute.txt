@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.AssemblyInfo.cs
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\bin\Debug\net6.0\task 25.exe
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\bin\Debug\net6.0\task 25.deps.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\bin\Debug\net6.0\task 25.runtimeconfig.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\bin\Debug\net6.0\task 25.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\bin\Debug\net6.0\task 25.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\refint\task 25.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\task 25.genruntimeconfig.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 4\task 25\obj\Debug\net6.0\ref\task 25.dll
