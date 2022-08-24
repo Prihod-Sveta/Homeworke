@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\bin\Debug\net6.0\task 42.exe
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\bin\Debug\net6.0\task 42.deps.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\bin\Debug\net6.0\task 42.runtimeconfig.json
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\bin\Debug\net6.0\task 42.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\bin\Debug\net6.0\task 42.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.AssemblyInfo.cs
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\refint\task 42.dll
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.pdb
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\task 42.genruntimeconfig.cache
+D:\Тестировщик\Семинары по Консолям\Homeworke\Lesson 6\task 42\obj\Debug\net6.0\ref\task 42.dll
