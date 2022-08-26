@@ -4,7 +4,7 @@
 // [6 7 3 6] -> [6 3 7 6]
 
 const int SIZE = 5;
-const int LEFT_RANGE = -10;
+const int LEFT_RANGE = 0;
 const int RIGHT_RANGE = 10;
 
 int[] arr = RandomArray(SIZE, LEFT_RANGE, RIGHT_RANGE);
@@ -34,4 +34,5 @@ void ReverseArray(int[] array)
         array[array.Length - 1 - i] = temp;
     }
 }
+
 
