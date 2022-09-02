@@ -9,9 +9,9 @@ Console.Clear();
 double[,] FillMatrix(int rowsCount, int columnsCount)
 {
     double[,] matrix = new double[rowsCount, columnsCount];
-Random rand = new Random();
-for (int i = 0; i < matrix.GetLength(0); i++)
-    {
+    Random rand = new Random();
+    for (int i = 0; i < matrix.GetLength(0); i++)
+        {
     for (int j = 0; j < matrix.GetLength(1); j++)
     {
         matrix[i, j] = rand.NextDouble() * 100;
